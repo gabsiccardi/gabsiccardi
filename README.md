@@ -19,4 +19,4 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,c,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,c,php,git)](https://skillicons.dev)
