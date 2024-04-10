@@ -19,7 +19,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,node,html,css,python,java,c,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,c,php)](https://skillicons.dev)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
