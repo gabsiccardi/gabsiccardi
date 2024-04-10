@@ -1,6 +1,7 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsiccardi)](https://github.com/gabsiccardi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsiccardi&hide=html,TeX,CSS)](https://github.com/gabsiccardi/github-readme-stats) -->
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/gabsiccardi/gabsiccardi/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
 ## Hello, I'm Gabriel Siccardi!
  
 <div> 
