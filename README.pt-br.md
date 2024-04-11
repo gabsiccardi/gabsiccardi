@@ -13,6 +13,7 @@
 
 💡 &nbsp; Sou um desenvolvedor de Software na ESC Partners, desenvolvendo portais usando React e Node.js.\
 🎓&nbsp;Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade do Estado de Santa Catarina.\
+🌱 &nbsp;Atualmente estou estudando C#.\
 ✍️ &nbsp;No meu tempo livre, eu gosto de ler livros, jogar videogame e colecionar moedas.\
 ✉️ &nbsp;Você pode entrar em contato comigo pelo email gab.siccardi@gmail.com. Tentarei responde o quanto antes!\
 📄 &nbsp;Você pode ver meu [CV](https://drive.google.com/file/d/1H1w55vwN_qojLoIHSzuEZ2vmORz1i-V5/view?usp=sharing) para mais detalhes de minhas experiências de trabalho.
