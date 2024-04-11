@@ -14,6 +14,7 @@
 
 💡 &nbsp; I'm a software developer at ESC Partners, working on portals for utilities companies using React and Node.js \
 🎓&nbsp;I graduated from the University of the State of Santa Catarina as a Bachelor of Technology in System Analysis and Development.\
+🌱 &nbsp;I'm currently learning C#.\
 ✍️ &nbsp;In my free time, I love to read books, play videogames and collect coins.\
 ✉️ &nbsp;You can email me at gab.siccardi@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1T_RPyXDAIohhxsr6D057m8HIsoV7YiaX/view?usp=sharing) for more details about work experience.
